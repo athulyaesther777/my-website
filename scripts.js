@@ -1,1 +1,4 @@
-// This is where you can add interactivity with JavaScript
+// Add any JavaScript code here
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Document loaded');
+});
